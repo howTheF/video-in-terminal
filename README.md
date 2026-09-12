@@ -8,9 +8,7 @@ an ASCII character by brightness (`" .:-=+*#%@"`), and colored per-cell with
 24-bit ANSI escape codes using the original pixel color. Audio is played in
 parallel via `ffplay`, synced to the video's frame timing.
 
-<video autoplay src="demo/arab-idol.mp4" controls muted loop playsinline width="700">
-  Your viewer doesn't support inline video — see demo/demo.mp4.
-</video>
+![Demo](demo/demo.gif)
 
 ## Setup
 
